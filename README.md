@@ -4,7 +4,7 @@ This README provides some notes on getting the qiaseq-dna analysis pipeline up a
 
 https://github.com/qiaseq/qiaseq-dna
 
-Figure 1 of the following publication provides an overview of teh steps in teh smcounter v2 workflow:
+Figure 1 of the following publication provides an overview of the steps in the smcounter v2 workflow:
 
 https://academic.oup.com/bioinformatics/article/35/8/1299/5091498
 
